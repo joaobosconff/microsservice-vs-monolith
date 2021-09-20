@@ -5,3 +5,4 @@
 [submodule "microsservice"]
 	path = microsservice
 	url = https://github.com/joaobosconff/jhipster-microsservice-example
+	branch = main
