@@ -1,3 +1,4 @@
 [submodule "monolith"]
 	path = monolith
 	url = https://github.com/joaobosconff/jhipster-monolith-example
+	branch = main
